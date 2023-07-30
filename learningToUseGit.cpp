@@ -12,7 +12,7 @@ int main(){
         arra[i] = i;
     }
     
-    cout << "I'm in a different branch" << endl;
+    cout << x << "I'm in a different branch" << endl;
     
     
     return 0;
