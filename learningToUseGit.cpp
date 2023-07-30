@@ -5,9 +5,10 @@ int main(){
     cout << "I'm learning to use git :D" << endl;
     
     int arra[10];
+    int x=0;
     for (int i = 0; i < 10; i++)
     {
-        cout << "Number: " << i << endl;
+        x+= i;
         arra[i] = i;
     }
     
